@@ -27,3 +27,7 @@ Jinja2
 Graphviz
 
 CentOS VM (Linux environment)
+
+Output example for a 6 node graph - 
+
+![OSPF Lab Topology](output.png)
